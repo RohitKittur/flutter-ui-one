@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="321.42856" height="198.57143" id="svg2817" version="1.1" inkscape:version="0.47 r22583" sodipodi:docname="simple_pink_ellipse.svg">
+  <defs id="defs2819">
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective2825"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35" inkscape:cx="-142.85715" inkscape:cy="-320.71429" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1165" inkscape:window-height="761" inkscape:window-x="107" inkscape:window-y="0" inkscape:window-maximized="0" showborder="false" inkscape:showpageshadow="false"/>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-9.2857208,-13.076469)">
+    <path sodipodi:type="arc" style="fill:none;stroke:pink;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path2829" sodipodi:cx="170" sodipodi:cy="112.36218" sodipodi:rx="155.71428" sodipodi:ry="94.285713" d="m 325.71428,112.36218 c 0,52.07256 -69.71566,94.28572 -155.71428,94.28572 -85.998622,0 -155.714279,-42.21316 -155.714279,-94.28572 0,-52.072559 69.715657,-94.285711 155.714279,-94.285711 85.99862,0 155.71428,42.213152 155.71428,94.285711 z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>simple pink ellipse</dc:title>
+        <dc:date>2010-08-29T19:50:50</dc:date>
+        <dc:description>a simple pink ellipse</dc:description>
+        <dc:source>http://openclipart.org/detail/82735/simple-pink-ellipse-by-mireille</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>mireille</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>ellipse</rdf:li>
+            <rdf:li>pink</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
